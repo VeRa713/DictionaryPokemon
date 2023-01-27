@@ -1,0 +1,15 @@
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\bin\Debug\net7.0\Dictionary-Pokemon.exe
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\bin\Debug\net7.0\Dictionary-Pokemon.deps.json
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\bin\Debug\net7.0\Dictionary-Pokemon.runtimeconfig.json
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\bin\Debug\net7.0\Dictionary-Pokemon.dll
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\bin\Debug\net7.0\Dictionary-Pokemon.pdb
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\obj\Debug\net7.0\Dictionary-Pokemon.csproj.AssemblyReference.cache
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\obj\Debug\net7.0\Dictionary-Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\obj\Debug\net7.0\Dictionary-Pokemon.AssemblyInfoInputs.cache
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\obj\Debug\net7.0\Dictionary-Pokemon.AssemblyInfo.cs
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\obj\Debug\net7.0\Dictionary-Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\obj\Debug\net7.0\Dictionary-Pokemon.dll
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\obj\Debug\net7.0\refint\Dictionary-Pokemon.dll
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\obj\Debug\net7.0\Dictionary-Pokemon.pdb
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\obj\Debug\net7.0\Dictionary-Pokemon.genruntimeconfig.cache
+C:\Users\DANIE9820\Downloads\CSharp Practice\Dictionary-Pokemon\obj\Debug\net7.0\ref\Dictionary-Pokemon.dll
